@@ -1,8 +1,8 @@
 # SamsungStudy
 
-Day | Problem 1 | Problem 2
-:--: | :--: | :--:
-2020년 10월 12일 | [스타트 택시](https://www.acmicpc.net/problem/19238) | [메시먼지 안녕!](https://www.acmicpc.net/problem/17144)
+Day | Problem 1 | Problem 2 | Solution
+:--: | :--: | :--: | :--:
+2020년 10월 12일 | [스타트 택시](https://www.acmicpc.net/problem/19238) | [메시먼지 안녕!](https://www.acmicpc.net/problem/17144) | [Day1](./Day1)
 2020년 10월 13일 | [어른 상어](https://www.acmicpc.net/problem/19237) | [낚시왕](https://www.acmicpc.net/problem/17143)
 2020년 10월 14일 | [청소년 상어](https://www.acmicpc.net/problem/19236) | [이차원 배열과 연산](https://www.acmicpc.net/problem/17140)
 2020년 10월 15일 | [모노미노도미노](https://www.acmicpc.net/problem/19235) | [연구소 3](https://www.acmicpc.net/problem/17142)
