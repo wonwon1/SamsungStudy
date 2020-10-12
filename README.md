@@ -1,5 +1,9 @@
 # SamsungStudy
 
+삼성 SW 역량테스트 기출문제 푸는 스터디입니다.
+
+[문제 리스트](https://www.acmicpc.net/workbook/view/1152)
+
 # Upload
 
 각 디렉토리 하위에 `문제번호_닉네임.확장자` 형식으로 올려주세요.
