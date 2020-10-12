@@ -1,5 +1,12 @@
 # SamsungStudy
 
+# Upload
+
+각 디렉토리 하위에 `문제번호_닉네임.확장자` 형식으로 올려주세요.
+
+닉네임은 자유롭게 해주시되 일정한 걸로 해주시면 될 것 같아요. ex) `19238_muzi.java`
+
+# Schedule
 Day | Problem 1 | Problem 2 | Solution
 :--: | :--: | :--: | :--:
 2020년 10월 12일 | [스타트 택시](https://www.acmicpc.net/problem/19238) | [메시먼지 안녕!](https://www.acmicpc.net/problem/17144) | [Day1](./Day1)
