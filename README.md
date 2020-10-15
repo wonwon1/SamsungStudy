@@ -19,3 +19,10 @@ Day | Problem 1 | Problem 2 | Solution
 2020년 10월 15일 | [모노미노도미노](https://www.acmicpc.net/problem/19235) | [연구소 3](https://www.acmicpc.net/problem/17142)
 2020년 10월 16일 | [주사위 윷놀이](https://www.acmicpc.net/problem/17825) | [게리맨더링 2](https://www.acmicpc.net/problem/17779)
 2020년 10월 17일 | [원판 돌리기](https://www.acmicpc.net/problem/17822) | [새로운 게임2](https://www.acmicpc.net/problem/17837)
+
+
+---
+토요일에 SW Expert Academy에 있는 문제를 푸시고 가시면 좋으실거 같습니다.
+1. [홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu&categoryId=AV5V61LqAf8DFAWu&categoryType=CODE)
+2. [활주로 건설](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeW7FakkUDFAVH&categoryId=AWIeW7FakkUDFAVH&categoryType=CODE)
+3. [프로세서 연결하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf&categoryId=AV4suNtaXFEDFAUf&categoryType=CODE)
